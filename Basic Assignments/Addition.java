@@ -6,7 +6,7 @@ public class Subtraction {
 
 		double sum = num1-num2;
 
-	   	System.out.println("Subtraction of two no." - sum);
+	   	System.out.println("Subtraction of two number." - sum);
 	
     	}
 }
